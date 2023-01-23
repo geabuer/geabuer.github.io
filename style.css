@@ -76,6 +76,7 @@ h3 {
     padding-left: 50px;
     font-size: 50px;
     color: white;
+    font-family: 'Caveat', cursive;
     
     
   }
@@ -87,4 +88,13 @@ h3 {
     width: 60em;
     text-align: center;
     padding-left: 25em;
+}
+footer {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.nav-link{
+    font-family: 'Caveat', cursive;
+    font-size: 22px;
 }
