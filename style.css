@@ -7,7 +7,7 @@
 .titulo1 {
     padding-top: 110px;
     text-align: center;
-    
+    margin-top: 80px;
 }
 .subtitulo1 {
     text-align: center;
@@ -92,9 +92,11 @@ h3 {
 footer {
     text-align: center;
     padding-top: 20px;
+    font-family: 'Caveat', cursive;
 }
 
 .nav-link{
     font-family: 'Caveat', cursive;
     font-size: 22px;
 }
+
